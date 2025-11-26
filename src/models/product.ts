@@ -15,6 +15,6 @@ export let products: Product[] = [
     name: 'Tênis de Corrida (Backend)',
     price: 299.90,
     description: 'Tênis vindo direto da API!',
-    image: 'https://img.freepik.com/fotos-gratis/um-tenis-branco-em-um-fundo-branco_181624-60197.jpg',
+    image: 'https://imgnike-a.akamaihd.net/1920x1920/027915IM.jpg',
   },
 ];
